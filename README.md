@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I am a Turkish CS student - currently a freshman - at Bilkent University. Right now I am learning Java as a programming language. You can reach me via my school mail : enes.eren@ug.bilkent.edu.tr
 
 <!--
 **eness-eren/eness-eren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
